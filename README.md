@@ -1,63 +1,20 @@
-# Nuxt 3 Minimal Starter
+# Templated
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+A platform for selling web templates for
 
-## Setup
+- React/NextJS
+- VueJS
+- Angular
 
-Make sure to install the dependencies:
+Categories
 
-```bash
-# npm
-npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+- Web templates
+  - Landing pages
+  - Chat Apps
+  - Dashboard
+- Png images/icons
+- svg icons
+  - custom icon packs
+- 3d icons
+- background template images
+- Figma design templates
